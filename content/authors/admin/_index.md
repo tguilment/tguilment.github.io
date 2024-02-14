@@ -126,5 +126,5 @@ social:
 highlight_name: true
 ---
 
-Thomas Guilment is a postdoctoral research at the Physics Department at the University of Louisiana at Lafayette. His research include machine learning, signal and image processing applied to underwater passive acoustics monitoring, and bathymetry.
+Thomas Guilment is a postdoctoral researcher at the Physics Department at the University of Louisiana at Lafayette. His research include machine learning, signal and image processing applied to underwater passive acoustics monitoring, and bathymetry.
 {style="text-align: justify;"}
